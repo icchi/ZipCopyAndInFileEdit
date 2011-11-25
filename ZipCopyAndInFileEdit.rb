@@ -1,7 +1,6 @@
 ﻿# -*- encoding: UTF-8 -*-
 
 require 'zip/zip'
-require "rexml/document"
 require "tmpdir"
 
 class ZipCopyAndInFileEdit

@@ -1,6 +1,6 @@
 ﻿# -*- encoding: UTF-8 -*-
 
-require_relative 'ZipCopyAndInFileEdit.rb'
+require_relative '..\ZipCopyAndInFileEdit.rb'
 
 begin
   return if ARGV.size < 3
