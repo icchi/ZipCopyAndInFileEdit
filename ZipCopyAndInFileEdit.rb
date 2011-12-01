@@ -59,7 +59,9 @@ class ZipCopyAndInFileEdit
   def copy(src, dst, copy_count, extname)
     copy_count.to_i.times do |i|
       call_file_function(src, i)
-      compact_zip(src, dst + format("/%03d" + extname, i + 1))
+      dst_filename = dst + format("/%03d" + extname, i + 1)
+      File.delete(dst_filename) if File.exist?(dst_filename)
+      compact_zip(src, dst_filename)
     end
   end
 
