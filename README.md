@@ -1,20 +1,20 @@
 ZipCopyAndInFileEdit
 =============
 
-Ezipƒtƒ@ƒCƒ‹‚ðŽw’è”ƒRƒs[‚·‚é
-EƒRƒs[Žž‚Ézipƒtƒ@ƒCƒ‹“à‚Ìƒtƒ@ƒCƒ‹‚ð‘‚«Š·‚¦‚é‚±‚Æ‚ªo—ˆ‚é
+ãƒ»zipãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒ‡å®šæ•°ã‚³ãƒ”ãƒ¼ã™ã‚‹
+ãƒ»ã‚³ãƒ”ãƒ¼æ™‚ã«zipãƒ•ã‚¡ã‚¤ãƒ«å†…ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ›¸ãæ›ãˆã‚‹ã“ã¨ãŒå‡ºæ¥ã‚‹
 
-Žg‚¢•û
+ä½¿ã„æ–¹
 -------
 
-1. ZipCopyAndInFileEditƒNƒ‰ƒX‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ðì¬
-2. zipƒtƒ@ƒCƒ‹“à‚Ìƒtƒ@ƒCƒ‹‚ð‘‚«Š·‚¦‚éê‡‚Í
-@ ZipCopyAndInFileEdit‚ÌƒCƒ“ƒXƒ^ƒ“ƒX‚ÉƒCƒ“ƒXƒ^ƒ“ƒXƒƒ\ƒbƒh‚ð’Ç‰Á‚µ‚Ü‚·B
-@@Ë’Ç‰Á‚Ìƒ‹[ƒ‹‚ÍˆÈ‰º‚Ì‚Æ‚¨‚è‚Å‚·B
-@@@E•ÏX‚µ‚½‚¢ƒtƒ@ƒCƒ‹–¼‚ðŠÖ”‚É‚·‚é
-@@@@E‘S‚Ä¬•¶Žš
-@@@@Eu.v‚ÍÈ‚­
-@@@@Eˆø”‚Í2‚Â(ƒtƒ@ƒCƒ‹–¼, ƒRƒs[‰ñ”)
-@@@E—á)testFile1.txt@Ë@testfile1txt(file_name, cnt)
-3. ’Ç‰Á‚µ‚½ƒCƒ“ƒXƒ^ƒ“ƒXƒƒ\ƒbƒh“à‚Åƒtƒ@ƒCƒ‹‚ð•ÒW‚µ‚Ä‚­‚¾‚³‚¢
-4. ZipCopyAndInFileEdit#runƒƒ\ƒbƒh‚ÅŽÀs‚µ‚Ü‚·B
+1. ZipCopyAndInFileEditã‚¯ãƒ©ã‚¹ã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã‚’ä½œæˆ
+2. zipãƒ•ã‚¡ã‚¤ãƒ«å†…ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ›¸ãæ›ãˆã‚‹å ´åˆã¯
+ã€€ ZipCopyAndInFileEditã®ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ã«ã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ãƒ¡ã‚½ãƒƒãƒ‰ã‚’è¿½åŠ ã—ã¾ã™ã€‚
+ã€€ã€€â‡’è¿½åŠ ã®ãƒ«ãƒ¼ãƒ«ã¯ä»¥ä¸‹ã®ã¨ãŠã‚Šã§ã™ã€‚
+ã€€ã€€ã€€ãƒ»å¤‰æ›´ã—ãŸã„ãƒ•ã‚¡ã‚¤ãƒ«åã‚’é–¢æ•°ã«ã™ã‚‹
+ã€€ã€€ã€€ã€€ãƒ»å…¨ã¦å°æ–‡å­—
+ã€€ã€€ã€€ã€€ãƒ»ã€Œ.ã€ã¯çœã
+ã€€ã€€ã€€ã€€ãƒ»å¼•æ•°ã¯2ã¤(ãƒ•ã‚¡ã‚¤ãƒ«å, ã‚³ãƒ”ãƒ¼å›žæ•°)
+ã€€ã€€ã€€ãƒ»ä¾‹)testFile1.txtã€€â‡’ã€€testfile1txt(file_name, cnt)
+3. è¿½åŠ ã—ãŸã‚¤ãƒ³ã‚¹ã‚¿ãƒ³ã‚¹ãƒ¡ã‚½ãƒƒãƒ‰å†…ã§ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç·¨é›†ã—ã¦ãã ã•ã„
+4. ZipCopyAndInFileEdit#runãƒ¡ã‚½ãƒƒãƒ‰ã§å®Ÿè¡Œã—ã¾ã™ã€‚
